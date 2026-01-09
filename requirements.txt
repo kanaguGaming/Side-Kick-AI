@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+pydantic
+pydantic-settings
+python-dotenv
+sentence-transformers
+langchain
+langchain-community
+openai
+pymupdf
